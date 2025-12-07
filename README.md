@@ -77,4 +77,7 @@ npm start
 
 5.Click Send to receive the answer       
 
-            
+OUTPUT :
+
+<img width="1292" height="763" alt="image" src="https://github.com/user-attachments/assets/60e32765-728c-41c3-b155-b46674b484d6" />
+
