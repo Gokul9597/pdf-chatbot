@@ -4,16 +4,16 @@
 
 ✨ Features:
 
-1.PDF Upload & Text Extraction
-2.Real-time Chat Interface
-3.REST API Communication
-4.Keyword-based Question Answering
-5.Clean & Responsive UI
-6.React Frontend
-7.Spring Boot Backend
-8.Apache PDFBox Integration
-9.Local & Cloud Deployment Support
-10.Deployed on Vercel (Frontend)
+1.PDF Upload & Text Extraction                               
+2.Real-time Chat Interface                                          
+3.REST API Communication                                   
+4.Keyword-based Question Answering                            
+5.Clean & Responsive UI                                    
+6.React Frontend                                     
+7.Spring Boot Backend                                      
+8.Apache PDFBox Integration                                 
+9.Local & Cloud Deployment Support                         
+10.Deployed on Vercel (Frontend)                                    
 
 
 🚀 Tech Stack:
